@@ -9,7 +9,4 @@ Gabriela Cuevas
 
 - [First map in ArcGIS Pro](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/data-models-and-geodatabase.ipynb)
 - [Multiple map frames in one map layout](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
-
-## Map Coordinate Basics
-
-- [Understanding map coordinates]()
+- [Map Projection](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/projecting-geographic-data.ipynb)
