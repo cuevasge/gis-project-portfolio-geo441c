@@ -7,6 +7,6 @@ Gabriela Cuevas
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/data-models-and-geodatabase.ipynb)
-- [Multiple map frames in one map layout](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
+- [First map in ArcGIS Pro](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
+- [Multiple map frames in one map layout](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/data-models-and-geodatabase.ipynb)
 - [Map Projection](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/projecting-geographic-data.ipynb)
