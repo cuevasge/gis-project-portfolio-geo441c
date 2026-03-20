@@ -10,3 +10,7 @@ Gabriela Cuevas
 - [First map in ArcGIS Pro](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
 - [Multiple map frames in one map layout](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/data-models-and-geodatabase.ipynb)
 - [Map Projection](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/basic-mapping/projecting-geographic-data.ipynb)
+
+## **Web Mapping**
+
+- This [StoryMap collection](https://arcg.is/1Su9Su1) contains all maps I made using ArcGIS Online
