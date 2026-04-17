@@ -13,7 +13,7 @@ Gabriela Cuevas
 
   ## **Raster Data Analysis**
 - [Landsat-8 image before and after Thomas Fire](raster-data-analysis/ndvi-change-thomas-fire.ipynb)
-- [Query Spatial Data for New Insights](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/raster-data-analysis/Query_spatial_data_for_new_insights.ipynb)
+- [Query Spatial Data for US Age Index](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/raster-data-analysis/Query_spatial_data_for_new_insights.ipynb)
 
 ## **Web Mapping**
 
