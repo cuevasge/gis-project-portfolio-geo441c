@@ -15,11 +15,11 @@ Gabriela Cuevas
 - [Landsat-8 image before and after Thomas Fire](raster-data-analysis/ndvi-change-thomas-fire.ipynb)
 - [Query Spatial Data for US Age Index](https://github.com/cuevasge/gis-project-portfolio-geo441c/blob/main/raster-data-analysis/Query_spatial_data_for_new_insights.ipynb)
 
-## **Web Mapping**
-
-- This [StoryMap collection](https://storymaps.arcgis.com/collections/dd38a4a3dc6442b6b61d4e96b5745f96) contains all maps I made using ArcGIS Online
 ## **Vector Data Analysis**
 - [Recreating John Snow's Cholera Maps](vector-analysis/Cholera_Maps_For_Spatial_Analysis.ipynb)
 
+## **Web Mapping**
+- This [StoryMap collection](https://storymaps.arcgis.com/collections/dd38a4a3dc6442b6b61d4e96b5745f96) contains all maps I made using ArcGIS Online
+  
 ## Georeferencing Practice
 - [Practice with Historical Map of Oxford, OH](georeferencing/Georeferencing.ipynb)
