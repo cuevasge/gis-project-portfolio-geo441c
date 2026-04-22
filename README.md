@@ -20,6 +20,7 @@ Gabriela Cuevas
 
 ## **Web Mapping**
 - This [StoryMap collection](https://storymaps.arcgis.com/collections/dd38a4a3dc6442b6b61d4e96b5745f96) contains all maps I made using ArcGIS Online
+- [3D Mapping the Yakima River](https://arcg.is/e1fKf1)
   
 ## Georeferencing Practice
 - [Practice with Historical Map of Oxford, OH](georeferencing/Georeferencing.ipynb)
