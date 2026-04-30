@@ -17,6 +17,7 @@ Gabriela Cuevas
 
 ## **Vector Data Analysis**
 - [Recreating John Snow's Cholera Maps](vector-analysis/Cholera_Maps_For_Spatial_Analysis.ipynb)
+- [Spatial Analysis using Ohio and North Carolina Census Tract Data](vector-analysis/census_spatial_analysis.ipynb)
 
 ## **Web Mapping**
 - This [StoryMap collection](https://storymaps.arcgis.com/collections/dd38a4a3dc6442b6b61d4e96b5745f96) contains all maps I made using ArcGIS Online
