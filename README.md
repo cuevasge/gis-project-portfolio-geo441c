@@ -28,4 +28,4 @@ Gabriela Cuevas
 
 ## Final Project: Trail Accessibility in the Great Smoky Mountains
 - [Project Proposal](https://docs.google.com/presentation/d/1-48-6tSWZgS6qrz1FFI0MZEnaVxmazxUjwnRvTB6loU/edit?usp=sharing)
-- [Trail Accessibility in the GSMNP: Story Map](link)
+- [Trail Accessibility in the GSMNP: Story Map](https://arcg.is/fb9500)
